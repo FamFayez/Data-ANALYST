@@ -3,24 +3,16 @@ Marketing Campaign Data Cleaning Project
 This project involves cleaning and preprocessing the Marketing Campaign dataset to prepare it for analysis. The dataset contained missing values, duplicates, inconsistent formats, and irregular categorical data.
 
 Objective:
+
 Handle missing values
+
 Remove duplicates
 
 Standardize text fields
 
 Convert dates and fix data types
 
-Handle outliers
 
-🛠 Tools Used
-
-Python 3
-
-Pandas
-
-NumPy
-
-Matplotlib & Seaborn (optional, for visualization)
 
 📁 Dataset
 
