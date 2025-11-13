@@ -1,12 +1,9 @@
 Marketing Campaign Data Cleaning Project
-📂 Project Overview
 
 This project involves cleaning and preprocessing the Marketing Campaign dataset to prepare it for analysis. The dataset contained missing values, duplicates, inconsistent formats, and irregular categorical data.
 
 Objective:
-
 Handle missing values
-
 Remove duplicates
 
 Standardize text fields
